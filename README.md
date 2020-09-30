@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**Davidosky007/Davidosky007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 
 - 🔭 I’m currently a full time student at Microverse Inc.
