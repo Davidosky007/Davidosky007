@@ -14,4 +14,4 @@
 
 [![David Bassey's github stats](https://github-readme-stats.vercel.app/api?username=Davidosky007&show_icons=true&theme=radical)](https://github.com/Davidosky007/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidosky007&show_icons=true&theme=radical&layout=compact)](https://github.com/Davidosky007/github-readme-stats)
 
-[![David Bassey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Davidosky)](https://github.com/Davidosky007/github-readme-stats)
+
