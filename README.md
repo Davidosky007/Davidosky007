@@ -15,7 +15,7 @@
 [![David Bassey's github stats](https://github-readme-stats.vercel.app/api?username=Davidosky007&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidosky007&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--START_SECTION:waka-->
-  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
-<!--END_SECTION:waka-->
+
+  <img src="https://github.com/davidosky007/davidosky007/blob/master/images/codeStats.svg" alt="My Weekly Stats"/>
+ 
+
