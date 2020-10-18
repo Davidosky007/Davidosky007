@@ -16,6 +16,5 @@
 
 
 
-  <img src="https://github.com/davidosky007/davidosky007/blob/master/images/codeStats.svg" alt="My Weekly Stats"/>
  
 
