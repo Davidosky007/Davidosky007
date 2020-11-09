@@ -2,8 +2,8 @@
 
  
 
-- 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
+- 🔭 currently a full time student at Microverse Inc.
+- 🌱 currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on  JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about ** Anything Tech Related!, I'm happy to help :v:
 - 📫 How to reach me: [Twitter](https://twitter.com/Davidosky007), [Linkedin](https://www.linkedin.com/in/david-bassey-2b9671199/)
