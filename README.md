@@ -1,12 +1,12 @@
-### Hi there 👋
+### <h1> Hi i am David Bassey, a Full Stack Developer 👋</h1>
 
 
 - 🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on  JavaScript, React and Ruby on Rails Project
-- 💬 Ask me about ** Anything Tech-Related!, I'm happy to help :v:
+- 💬 Ask me about Anything Tech-Related, I'm happy to help :v:
 - 📫 How to reach me: [Twitter](https://twitter.com/Davidosky007), [Linkedin](https://www.linkedin.com/in/david-bassey-2b9671199/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When most developer loves coffee:sweat_smile: But, I prefer Water :heart: 
+- ⚡ Fun fact: While most developers love coffee, :coffee: I prefer water! :cup_with_straw:
 
 ![Profile views](https://gpvc.arturio.dev/davidosky007)
 
