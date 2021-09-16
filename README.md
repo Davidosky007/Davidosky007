@@ -1,7 +1,7 @@
 ### <h1> Hi i am David Bassey, a Full Stack Developer 👋</h1>
 
 
-- 🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
+- 🌱 Currently available for FullStack, Frontend remote jobs (Ruby on Rails, JavaScript, React, Node js)
 - 👯 I’m looking to collaborate on  JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Anything Tech-Related, I'm happy to help :v:
 - 📫 How to reach me: [Twitter](https://twitter.com/Davidosky007), [Linkedin](https://www.linkedin.com/in/david-bassey-2b9671199/)
